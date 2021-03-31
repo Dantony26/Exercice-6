@@ -1,0 +1,23 @@
+.form1, .form2, .form3 {
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+.titre1, .titre2, .titre3 {
+    padding: 5px;
+    margin-left: 0.5em;
+}
+.form1, .titre1{
+    background-color: rgb(36, 36, 196);
+}
+.form2, .titre2{
+    background-color: purple;
+}
+.form3, .titre3{
+    background-color: red;
+}
+#visa, #mastercard {
+    margin-left: 3em;
+}
+#adresse {
+    height: 5em;
+}
